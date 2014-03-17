@@ -1,24 +1,20 @@
 body {
-	font-family: 'Nunito', sans-serif;
-	color: #faf3bc;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+	background: white; 
 }
 
 a {
-	color: #4fb69f;
+	color: brown;
 	text-decoration: none;
 }
 
-h1 {
-	font-size: 1.750em;
-	font-weight: 100;
-	letter-spacing: -1.5px;
-}
+
 
 h2 {
 	font-weight: 100;
 	font-size: 1.500em;
-	color: #b4c34f;
+	color: black;
 }
 
 h3 {
@@ -39,41 +35,19 @@ h3 {
 }
 
 btn:hover {
-	background-color: #4cc4a7;
+	background-color: black; 
+	color: white;
 }
 
 
-.btn-small {
-	padding: 10px 25px;
-	margin: 50px 0;
-	color: #faf3bc;
-	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right bottom;
-	border-radius: 25px;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	text-transform: uppercase;
-}
+
 
 .btn-small:hover {
 	
-	background-color: #c62718;
+	background-color: black;
 }
 
-.submit-btn {
-	padding: 10px 25px;
-	margin: 20px 0 50px 0;
-	color: #faf3bc;
-	font-family: 'Nunito', sans-serif;
-	border: 0;
-	font-weight: 100;
-	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right top;;
-	border-radius: 25px;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	text-transform: uppercase;
-}
+
 
 ul.nav {
 	margin: 0 auto;
@@ -89,25 +63,17 @@ ul.nav li {
 
 ul.nav li.last {
 	margin: 0;
-	padding: 10px 25px;
-	color: #faf3bc;
-	font-family: 'Nunito', sans-serif;
-	border: 0;
-	font-weight: 100;
-	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right top;;
-	border-radius: 25px;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	text-transform: uppercase;
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+	background: white;
+
+	
 }
 
-ul.nav li.last:hover {
-		background-color: #c62718;
-}
+
 
 ul.nav li a {
-	color: #faf3bc;
+	color: black;
 	display: block;
 	text-decoration: none;
 }
@@ -116,23 +82,25 @@ ul.nav li a {
 	margin: 50px 0 75px 0;
 }
 
-#new-cupcakes img {
-	border: 8px solid #faf3bc;
+#new-photo img {
+	border: 8px solid black;
 	margin: 0 0 20px 0;
 }
 
 #popular-cupcakes img {
-	border: 8px solid #faf3bc;
+	border: 8px solid black;
 }
 
-#featured-cupcake img {
-	border: 8px solid #faf3bc;
+#featured-art img {
+	border: 8px solid black;
 }
 
 #contact span{
-	color: #b22316;
+	color: black;
 	font-weight: 600;
 }
+
+
 
 #copyright {
 	border-top: 8px solid #2a0400;
