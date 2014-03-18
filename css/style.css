@@ -5,7 +5,7 @@ body {
 }
 
 a {
-	color: brown;
+	color: black;
 	text-decoration: none;
 }
 
@@ -15,12 +15,14 @@ h2 {
 	font-weight: 100;
 	font-size: 1.500em;
 	color: black;
+	text-align: center;
+	text-decoration: underline;
 }
 
 h3 {
 	font-weight: 100;
 	font-size: 1.125em;
-	color: #ed6c85;
+	color: black;
 }
 
 
@@ -42,7 +44,7 @@ btn:hover {
 
 ul.nav {
 	margin: 0 auto;
-	padding: 120px 0 0 0;
+	padding: 150px 0 0 0;
 	list-style: none;
 	float: right;
 }
@@ -50,6 +52,7 @@ ul.nav {
 ul.nav li {
 	float: left;
 	margin-right: 40px;
+	font-size: 1.125em
 }
 
 ul.nav li.last {
@@ -58,6 +61,15 @@ ul.nav li.last {
 	font-family: 'Josefin Sans', sans-serif;
 	background: white;
 
+	
+}
+
+ul.nav li:hover {
+	text-decoration: underline;
+	color: black;
+	background-color: white;
+
+	
 	
 }
 
@@ -95,6 +107,8 @@ ul.nav li a {
 	color: black;
 	font-weight: 600;
 }
+
+
 
 #me {
 	text-align: center;
