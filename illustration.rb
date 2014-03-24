@@ -1,10 +1,8 @@
-
-
 <!DOCTYPE HTML>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>Contact</title>
+	<title>Illustration</title>
 	<link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -13,7 +11,6 @@
 </head>
 
 <body>
-
 	<div class="container clearfix">
 		<div class="grid_4">
 			<a href="index.html"><img src="img/monica.gif" alt="Monica Cho"></a>
@@ -22,40 +19,31 @@
 			<ul class="nav">
 				<li><a href="oils.html">Oils</a></li>
 				<li><a href="mixedmedia.html">Mixed Media</a></li>
-				<li><a href="fashion.html"> Fashion</a></li>
+				<li><a href="illustration.html">Illustration</a></li>
 				<li><a href="bio.html">Bio</a></li>
 				
-	
 				<li class="last"><a href="contact.html">Contact</a></li>
 			</ul>
 		</div>
-
-			<br>
-			<div class="grid_12">
-			</div>
-			<br>
-			
-			
-		<div id="new-photo" class="grid_6 omega">
-				
-			<img src="img/paint.jpg" alt="art">
-			
-		</div>
-			
 		
-		
-			
-		<div class="grid_6">
-			<h2>Contact</h2>
-			
-			<div id="contact">
-				<p>
-				Email: <a href="monicacho21@me.com">monicacho21@me.com</a></p>
-			</div>
-				
-			
+		<br>
+		<div class="grid_12">
 		</div>
+		<br>
+	
+	<br>
+	<div class="grid_12">
+	</div>
+	<br>
+	
+	
+	<div id="new-photo" class="grid_6">
+			
+		<img src="img/shedd.jpg" alt="art">
+		<p>'The Shedd' watercolor and mix media 18" x 20" </p>
+	</div>
+	
+	<div class="grid_6 omega">
+		<h2>Illustration </h2>
 		
-		<div id="copyright" class="grid_12">
-			<p>© 2014 Monica Cho. All Rights Reserved.</p>
-		</div>
+	</div>
